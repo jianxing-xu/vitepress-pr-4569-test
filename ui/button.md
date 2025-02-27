@@ -1,3 +1,13 @@
-# JKLFDJSKLJFKLSFSDFSDdadasdasd asd
+<script setup>
+  import Button from '../ui/button.vue'
+</script>
 
-# skldfjslkdjfk
+# show button
+
+<Button />
+
+# AAA
+
+# BBB
+
+# CCCasd
